@@ -300,11 +300,11 @@ resetBtn.addEventListener('click', function() {
         // إعادة تعيين القيم الافتراضية
         document.getElementById('line1').value = 'بكل الحب والتقدير';
         document.getElementById('line2').value = 'أتشرف بإعلامكم';
-        document.getElementById('line3').value = 'بتمديد تكليفي في منصبي الحالي';
-        document.getElementById('employeeName').value = 'محمد إبراهيم العلي';
+        document.getElementById('line3').value = 'بتمديد تكليف   ';
+        document.getElementById('employeeName').value = 'د.فواز جمال الديدب';
         document.getElementById('department').value = 'إدارة الموارد البشرية';
         document.getElementById('position').value = 'مدير إدارة';
-        document.getElementById('organization').value = 'وزارة التعليم';
+        document.getElementById('organization').value = 'وزارة الصحة';
         document.getElementById('startDate').value = 'الموافق ١٤٤٥/٠٣/١٥ هـ';
         document.getElementById('endDate').value = 'حتى تاريخ ١٤٤٦/٠٣/١٥ هـ';
         document.getElementById('location').value = 'الرياض - المملكة العربية السعودية';
